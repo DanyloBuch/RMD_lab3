@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Lab 3 Gesture App",
+    "slug": "lab3-gesture-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
